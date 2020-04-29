@@ -1,4 +1,11 @@
-
+@article{exertion,
+author={Wanwan Li, Biao Xie, Yongqi Zhang, Walter Meiss, Haikun Huang, Lap-Fai Yu},
+title={Exertion-Aware Path Generation},
+booktitle={ACM Transactions on Graphics},
+volume = {39},
+number = {4},
+year={2020}
+}
 
 @inproceedings{level2,
 author = "Yongqi Zhang and Biao Xie and Haikun Huang and Elisa Ogawa and Tongjian You and Lap-Fai Yu",
@@ -8,9 +15,8 @@ year = "2019"
 }
 
 
-@article{exergame,
-    author = {Biao Xie and Yongqi Zhang and Haikun Huang and Elisa Ogawa and Tongjian You and Lap-Fai Yu},
-    title = {Exercise Intensity-driven Level Design},
-    journal = {IEEE Transactions on Visualization and Computer Graphics},
-    year = {2018}
-}
+@ARTICLE{level1, 
+author={B. {Xie} and Y. {Zhang} and H. {Huang} and E. {Ogawa} and T. {You} and L. {Yu}}, 
+journal={IEEE Transactions on Visualization and Computer Graphics}, 
+title={Exercise Intensity-Driven Level Design}, 
+year={2018}, volume={24}, number={4}, pages={1661-1670},}
