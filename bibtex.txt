@@ -8,15 +8,25 @@ year={2020}
 }
 
 @inproceedings{level2,
-author = "Yongqi Zhang and Biao Xie and Haikun Huang and Elisa Ogawa and Tongjian You and Lap-Fai Yu",
-title = "Pose-Guided Level Design",
-booktitle = "Proceedings of the 37th Annual ACM Conference on Human Factors in Computing Systems",
-year = "2019"
+author = {Zhang, Yongqi and Xie, Biao and Huang, Haikun and Ogawa, Elisa and You, Tongjian and Yu, Lap-Fai},
+title = {Pose-Guided Level Design},
+year = {2019},
+isbn = {9781450359702},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3290605.3300784},
+doi = {10.1145/3290605.3300784},
+booktitle = {Proceedings of the 2019 CHI Conference on Human Factors in Computing Systems},
+articleno = {Paper 554},
+numpages = {12},
+keywords = {optimization, generative design, exergaming, level design},
+location = {Glasgow, Scotland Uk},
+series = {CHI ’19}
 }
 
 
 @ARTICLE{level1, 
-author={B. {Xie} and Y. {Zhang} and H. {Huang} and E. {Ogawa} and T. {You} and L. {Yu}}, 
+author={Biao Xie and Yongqi Zhang and Haikun Huang and Elisa Ogawa and Tongjian You and Lap-Fai Yu}, 
 journal={IEEE Transactions on Visualization and Computer Graphics}, 
 title={Exercise Intensity-Driven Level Design}, 
 year={2018}, volume={24}, number={4}, pages={1661-1670},}
